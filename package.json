@@ -1,0 +1,25 @@
+{
+  "name": "React",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000e\u0000m\u0000o\u00002\u0000\r\u0000 \u0000#\u0000 \u0000d\u0000e\u0000m\u0000o\u00002\u0000\r\u0000 \u0000#\u0000 \u0000d\u0000e\u0000m\u0000o\u00003\u0000\r\u0000 \u0000#\u0000 \u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000m\u0000a\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshalTe/react-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshalTe/react-main/issues"
+  },
+  "homepage": "https://github.com/HarshalTe/react-main#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  }
+}
